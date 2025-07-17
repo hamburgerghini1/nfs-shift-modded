@@ -28,6 +28,7 @@ InfoBeforeFile=C:\Users\tommi\Downloads\info.txt
 OutputDir=C:\Users\tommi\Downloads
 OutputBaseFilename=nfs-shift-modded-setup
 SolidCompression=yes
+DiskSpanning=true
 WizardStyle=modern
 
 [Languages]
